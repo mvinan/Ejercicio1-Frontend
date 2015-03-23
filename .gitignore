@@ -1,4 +1,4 @@
-stylus/
+stylus/*
 .DS_Store
 *.sh
 *.styl
